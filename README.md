@@ -66,13 +66,13 @@ A user should be able to:
 
 - **Create a new membership**
 
-  - New membership require a gym_id, client_id, and membership charge.
-  - Validation: A client can have only one membership with gym
+  <!-- - New membership require a gym_id, client_id, and membership charge. -->
+  <!-- - Validation: A client can have only one membership with gym -->
 
 - **View one specific gym**
 
-  - if `Gym` exists, return JSON data for the gym
-  - else return error with a status code
+  <!-- - if `Gym` exists, return JSON data for the gym -->
+  <!-- - else return error with a status code -->
 
 - **Delete a gym**
 
